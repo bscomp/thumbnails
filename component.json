@@ -4,6 +4,8 @@
   "description": "component-bootstrap",
   "version": "0.0.1",
   "dependencies": {
+    "bscomp/mixins":"*",
+    "bscomp/scaffolding":"*"
   },
   "styles": ["index.less"]
 }
